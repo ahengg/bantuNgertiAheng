@@ -6,8 +6,9 @@ Ini adalah Jupyter notebook dari data Analysis
 - [Introduction](#introduction)
 - [Pertanyaan](#Visualisasi Bisnis)
 --
-
-'''
+## Business Question
+### 1-where-are-the-most-male-customers-located-display-with-a-bar-chart-per-country
+```Python
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -23,4 +24,4 @@ plt.title('Number of Male Customers by Country')
 plt.xlabel('Country')
 plt.ylabel('Number of Male Customers')
 plt.show()
-'''
+```
