@@ -1,7 +1,7 @@
 # The Look ECommerce Data Analysis
 
 <p align="center">
-  <img src="https://png.pngtree.com/png-vector/20230726/ourmid/pngtree-coloring-pages-free-kids-printable-teddy-bear-drawing-in-pencil-cartoon-png-image_6746133.png" alt="Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAeydWteMBCJeaC4TLf3P7AMzhMbVef49HkA&s" alt="Logo" />
 </p>
 
 Ini adalah Jupyter notebook dari data Analysis
